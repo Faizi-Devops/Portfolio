@@ -52,6 +52,84 @@ const About = () => {
 
                     </div>
 
+                    <div className="row">
+                        <div className="col-lg-4 col-md-6 col-sm-12 col-xs-12 pt-3"><p  style={{ fontFamily: "Bahnschrift Light", letterSpacing: ".08em", fontWeight: "700", fontSize: "15px",marginBottom:"0px" }}>Node JS</p>
+                        <span className="pt-2" style={{ display: "inline-flex", alignItems: "center" }}>
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>   
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+
+                        </span>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12 col-xs-12 pt-3"><p  style={{ fontFamily: "Bahnschrift Light", letterSpacing: ".08em", fontWeight: "700", fontSize: "15px",marginBottom:"0px" }}>JavaScript</p>
+                        <span className="pt-2" style={{ display: "inline-flex", alignItems: "center" }}>
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>   
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+
+                        </span>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12 col-xs-12 pt-3"><p  style={{ fontFamily: "Bahnschrift Light", letterSpacing: ".08em", fontWeight: "700", fontSize: "15px",marginBottom:"0px" }}>Express.js</p>
+                        <span className="pt-2" style={{ display: "inline-flex", alignItems: "center" }}>
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>   
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+
+                        </span>
+                        </div>
+
+                    </div>
+                    <div className="row">
+                        <div className="col-lg-4 col-md-6 col-sm-12 col-xs-12 pt-3"><p  style={{ fontFamily: "Bahnschrift Light", letterSpacing: ".08em", fontWeight: "700", fontSize: "15px",marginBottom:"0px" }}>MongoDB</p>
+                        <span className="pt-2" style={{ display: "inline-flex", alignItems: "center" }}>
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>   
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+
+                        </span>
+                        </div>
+                        <div className="col-lg-4 col-md-6 col-sm-12 col-xs-12 pt-3"><p  style={{ fontFamily: "Bahnschrift Light", letterSpacing: ".08em", fontWeight: "700", fontSize: "15px",marginBottom:"0px" }}>Firebase</p>
+                        <span className="pt-2" style={{ display: "inline-flex", alignItems: "center" }}>
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>   
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{backgroundColor:"#c0e3e7",marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+                            <span className="bullet fill" style={{marginRight:"6px",display: "inline-block",borderColor:"#c0e3e7",width:"0.938em",height:"0.938em",borderRadius:"50%",borderWidth:"1px",borderStyle:"solid",whiteSpace:"nowrap"}}></span>                         
+
+                        </span>
+                        </div>
+                        
+
+                    </div>
+
+                    <p className="pt-4 mb-0" style={{ fontFamily: "Bahnschrift Light", letterSpacing: ".08em", fontSize: "20px", fontWeight: "200" }}>Tools, Technologies, and APIs I've worked with</p>
+                    <div className="row">
+                        <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <p className="pt-3" style={{ fontFamily: "Bahnschrift Light",color:"#757575", letterSpacing: ".08em", fontSize: "20px", fontWeight: "200" }}>Languages</p>
+                        <span style={{display:"inline-block"}}>
+                        
+                        </span>
+                        </div>
+                        <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <p className="pt-3" style={{ fontFamily: "Bahnschrift Light",color:"#757575", letterSpacing: ".08em", fontSize: "20px", fontWeight: "200" }}>Databases</p>
+                        </div>
+
+                    </div>
+
+
 
 
                 </div>
